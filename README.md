@@ -15,7 +15,7 @@ I build what lets quality scale without adding headcount: automation frameworks,
 ## Open source
 
 - [**pw2xray**](https://github.com/alcarcis/pw2xray): reusable Playwright ↔ Xray integration library (TypeScript).
-- 🚧 *In progress:* a public Playwright reference project with continuous integration (pipeline on pull requests, parallel runs, published reports).
+- [**playwright-ci-reference**](https://github.com/alcarcis/playwright-ci-reference): layered Playwright tests with a real CI quality gate on GitHub-hosted runners (sharded runs, merged report, secret scan, SHA-pinned actions).
 
 ## Tools
 
