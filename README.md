@@ -30,7 +30,7 @@ I build what lets quality scale without adding headcount: automation frameworks,
 ## Contact
 
 - LinkedIn: [linkedin.com/in/alcalarcis](https://www.linkedin.com/in/alcalarcis)
-- Email: [alcalacarcis@gmail.com](mailto:alcalacarcis@gmail.com)
+- Email: [hola@alcarcis.com](mailto:hola@alcarcis.com)
 
 <details>
 <summary>🇪🇸 En español</summary>
