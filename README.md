@@ -22,18 +22,7 @@ Quality isn't a filter: it lives in every stage of development. I work in financ
 
 ## Tools
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Maestro](https://img.shields.io/badge/Maestro-1F1D1B?style=flat)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray-0A4DA2?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<img src="assets/stack.svg" width="752" alt="Tools: Playwright, TypeScript, Cypress, Cucumber, Maestro, Appium, Postman, k6, JMeter, GitHub Actions, Docker, Git, Jira, Xray" />
 
 ## Contact
 
